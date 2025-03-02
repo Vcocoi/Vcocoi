@@ -15,7 +15,7 @@ I am a student in Southeast University
 - [Google Scholar](https://scholar.google.com/citations?user=zF4AHKQAAAAJ&hl=zh-CN&authuser=1 "Google Scholar")
 
 <h3>
-    Research Interest<img src="./_Pictures/research_insterest.png" width="20px">
+    Research Interest <img src="./_Pictures/research_insterest.png" width="20px">
 </h3>
 
 
