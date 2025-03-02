@@ -9,6 +9,6 @@ I am a student in Southeast University
 - 213212319@seu.edu.cn
 <br>
 <img src="./_Pictures/google_scholar_icon.png" width="20px"> 
-- [Google Scholar]
+- Google Scholar(https://scholar.google.com/citations?user=zF4AHKQAAAAJ&hl=zh-CN&authuser=1 "Google Scholar")
 
 
