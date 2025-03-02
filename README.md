@@ -20,5 +20,8 @@ I am a student in Southeast University
     Research Interest <img src="./_Pictures/research_insterest.png" width="20px">
 </h3>
 
-**Artificial Intellengence** | *Machine Learning* | ***Human-like Network***
+**Artificial Intellengence** | *Machine Learning* | ***Human-like Network*** 
+<a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/made_with-markdown-blue" alt="made with markdown badge" />
+</a>
 
