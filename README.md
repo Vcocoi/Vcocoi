@@ -47,7 +47,8 @@ I am a student in Southeast University
 
 <div>
 </p>
-- Coding
+- Reading
+- Drawing
 </div>
 
 ***
