@@ -26,6 +26,6 @@ I am a student in Southeast University
 </h3>
 
 <div>
-  <img align="right" alt="coding_img" width="40" src="./_Pictures/ai.png" width="20px">
+  <img align="right" alt="coding_img" width="80" src="./_Pictures/ai.png" width="20px">
   **Artificial Intellengence** | *Machine Learning* | ***Human-like Network***
 </div>
