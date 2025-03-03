@@ -1,4 +1,6 @@
-![](./_Pictures/title_image.jpg)
+<p align="center">
+  <img src="./_Pictures/title_image.jpg" >
+</p>
 
 <h1>
   ChenxuWu - 吴晨旭
