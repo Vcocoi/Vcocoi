@@ -21,7 +21,7 @@ I am a student in Southeast University
 </h3>
 
 **Artificial Intellengence** | *Machine Learning* | ***Human-like Network*** 
-<a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/made_with-markdown-blue" alt="made with markdown badge" />
-</a>
+<div align=right>
+  <img src="./_Pictures/ai.png">
+</div>
 
