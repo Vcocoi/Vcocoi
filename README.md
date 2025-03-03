@@ -40,9 +40,13 @@ I am a student in Southeast University
 
 <h3>
   <p>
-    Hobbies <img src="./_Pictures/hobbies.png" width="20px">
+    Hobbies <img src="./_Pictures/hobbies.png" width="30px">
   </p>
 </h3>
+
+<div>
+  
+</div>
 
 
 
