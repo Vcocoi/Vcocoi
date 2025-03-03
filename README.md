@@ -20,5 +20,5 @@ I am a student in Southeast University
     Research Interest <img src="./_Pictures/research_insterest.png" width="20px">
 </h3>
 
-**Artificial Intellengence** | *Machine Learning* | ***Human-like Network*** ![](./_Pictures/ai.png#pic_right)
+**Artificial Intellengence** | *Machine Learning* | ***Human-like Network*** <img src="./_Pictures/ai.png" width="20px">
 
