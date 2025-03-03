@@ -22,10 +22,15 @@ I am a student in Southeast University
 ***
 
 <h3>
-    Research Interest <img src="./_Pictures/research_insterest.png" width="20px">
+    <p> 
+      <font color=#e16c96> Research Interest </font> <img src="./_Pictures/research_insterest.png" width="20px">
+    </p>
 </h3>
 
 <div style="display:flex">
   <img align="right" alt="coding_img" width="120" src="./_Pictures/ai.png" width="20px">
-  **Artificial Intellengence** | *Machine Learning* | ***Human-like Network***
+  <em> Artificial Intellengence </em> | <strong> Machine Learning </strong>
 </div>
+<!--  
+  **Artificial Intellengence** | *Machine Learning* | ***Human-like Network***
+-->
