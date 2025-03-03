@@ -34,3 +34,14 @@ I am a student in Southeast University
 <!--  
   **Artificial Intellengence** | *Machine Learning* | ***Human-like Network***
 -->
+
+***
+
+<h3>
+  <p>
+    Hobbies <img src="./_Pictures/hobbies.png" width="20px">
+  </p>
+</h3>
+
+
+
