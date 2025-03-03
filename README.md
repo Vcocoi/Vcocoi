@@ -1,8 +1,11 @@
 ![](./_Pictures/title_image.jpg)
 
 <h1>
-  ChenxuWu - 吴晨旭 # if center use <h1 align="center">
+  ChenxuWu - 吴晨旭
 </h1>
+<!--
+  if center use <h1 align="center">
+-->
 
 I am a student in Southeast University  
 <br>
