@@ -29,7 +29,7 @@ I am a student in Southeast University
 
 <div style="display:flex">
   <img align="right" alt="coding_img" width="120" src="./_Pictures/ai.png" width="20px">
-  <em> Artificial Intellengence </em> | <strong> Machine Learning </strong>
+  <em> Artificial Intellengence </em> | <strong> Machine Learning </strong> | <em> <strong> Human-like Network </strong> </em>
 </div>
 <!--  
   **Artificial Intellengence** | *Machine Learning* | ***Human-like Network***
