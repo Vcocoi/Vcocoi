@@ -50,11 +50,11 @@ I am a student in Southeast University
 <div style="display:flex">
   <img alt="coding_img" align="right" width="120" src="./_Pictures/book.gif">
 
-- <img src="./Pictures/milktea.png" width="20"> Reading all kinds of books
+- <img src="./_Pictures/milktea.png" width="20"> Reading all kinds of books
 
-- <img src="./Pictures/draw.png" width="20"> Drawing & <img src="./Pictures/calligraphy.png" width="20"> Calligraphy
+- <img src="./_Pictures/draw.png" width="20"> Drawing & <img src="./_Pictures/calligraphy.png" width="20"> Calligraphy
 
-- <img src="./Pictures/music.png" width="20"> Admiring [Pure Music](https://c6.y.qq.com/base/fcgi-bin/u?__=nyaEd6R4tQR8 "QQMusic")
+- <img src="./_Pictures/music.png" width="20"> Admiring [Pure Music](https://c6.y.qq.com/base/fcgi-bin/u?__=nyaEd6R4tQR8 "QQMusic")
 </div>
 
 ***
