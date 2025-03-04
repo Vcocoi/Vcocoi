@@ -150,7 +150,7 @@ I am a student in Southeast University
 ***
 
   <a href="https://github.com/Oriend">
-    <img align="center" src="./_Pictures/pink_earth.gif" width="200">
+    <img align="right" src="./_Pictures/pink_earth.gif" width="200">
   </a>
 
 
