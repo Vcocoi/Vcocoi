@@ -145,6 +145,6 @@ I am a student in Southeast University
   </p>
 </h2>
 
-- **[xxxx/xx/xx-xxxx/xx/xx] VeriSilicon** <img align="right" src="./_Pictures/veri_silicon.jpg" width="40px">
+- **[xxxx/xx/xx-xxxx/xx/xx] VeriSilicon** <img align="right" src="./_Pictures/veri_silicon.jpg" height="40px">
 
-- **[2021/09/01-2025/06/30] Southeast University** <img align="right" src="./_Pictures/SEU.jpg" width="40px">
+- **[2021/09/01-2025/06/30] Southeast University** <img align="right" src="./_Pictures/SEU.jpg" height="40px">
