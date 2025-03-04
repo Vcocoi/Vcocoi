@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./_Pictures/title_image.jpg" >
-</p>
+<img align="center" src="./_Pictures/title_image.jpg">
 
 <h1>
   ChenxuWu - 吴晨旭
@@ -149,7 +147,9 @@ I am a student in Southeast University
 
 - **[2021/09/01-2025/06/30] Southeast University** <img align="right" src="./_Pictures/SEU.jpg" height="40px">
 
+***
 
+<img src="./_Pictures/title_image.jpg" >
 
 
 
