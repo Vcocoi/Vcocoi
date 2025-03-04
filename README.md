@@ -32,11 +32,11 @@ I am a student in Southeast University
   </p>
   
 **Artificial Intellengence** | *Machine Learning* | ***Human-like Network***
+<br>
 </div>
 <!--  
   <em> Artificial Intellengence </em> | <strong> Machine Learning </strong> | <em> <strong> Human-like Network </strong> </em>
 -->
-<br>
 
 ***
 
@@ -47,11 +47,12 @@ I am a student in Southeast University
 </h3>
 
 <div>
+  <>
 </p>
   
-- Reading
-- Drawing
-
+- Reading all kinds of books
+- Drawing & Calligraphy
+- Admiring Pure Music
 </div>
 
 ***
