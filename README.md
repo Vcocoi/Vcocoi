@@ -20,8 +20,11 @@ I am a student in Southeast University
 - [Google Scholar](https://scholar.google.com/citations?user=zF4AHKQAAAAJ&hl=zh-CN&authuser=1 "Google Scholar")
 
 ***
-
-## Research Interest <img src="./_Pictures/research_insterest.png" width="20px">
+<h2>
+  <p>
+    Research Interest <img src="./_Pictures/research_insterest.png" width="20px">
+  </p>
+</h2>
 <div style="display:flex">
   <img align="right" alt="coding_img" width="120" src="./_Pictures/ai.png" width="20px">
   
@@ -36,11 +39,11 @@ I am a student in Southeast University
 
 ***
 
-<h3>
+<h2>
   <p>
     Hobbies <img src="./_Pictures/hobbies.png" width="20px">
   </p>
-</h3>
+</h2>
 
 <div style="display:flex">
   <img alt="coding_img" align="right" width="120" src="./_Pictures/book.gif">
