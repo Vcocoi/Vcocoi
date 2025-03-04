@@ -22,7 +22,7 @@ I am a student in Southeast University
 ***
 <h2>
   <p>
-    Research Interest <img src="./_Pictures/research_insterest.png" width="30px">
+    Research Interest <img src="./_Pictures/research_insterest.png" width="25px">
   </p>
 </h2>
 <div style="display:flex">
@@ -41,7 +41,7 @@ I am a student in Southeast University
 
 <h2>
   <p>
-    Hobbies <img src="./_Pictures/hobbies.png" width="30px">
+    Hobbies <img src="./_Pictures/hobbies.png" width="25px">
   </p>
 </h2>
 
@@ -59,7 +59,7 @@ I am a student in Southeast University
 
 <h2>
   <p>
-    News <img src="./_Pictures/news.png" width="30px">
+    News <img src="./_Pictures/news.png" width="25px">
   </p>
 </h2>
 
@@ -82,7 +82,7 @@ I am a student in Southeast University
 
 <h2>
   <p>
-    Publications <img src="./_Pictures/paper.png" width="30px">
+    Publications <img src="./_Pictures/paper.png" width="25px">
   </p>
 </h2>
 
@@ -133,6 +133,6 @@ I am a student in Southeast University
 
 <h2>
   <p>
-    Education <img src="./_Pictures/education.png" width=30px>
+    Education <img src="./_Pictures/education.png" width=25px>
   </p>
 </h2>
