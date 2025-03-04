@@ -54,7 +54,7 @@ I am a student in Southeast University
 
 - Drawing & Calligraphy
 
-- Admiring Pure Music
+- Admiring Pure [Music](https://c6.y.qq.com/base/fcgi-bin/u?__=nyaEd6R4tQR8 "QQMusic")
 </div>
 
 ***
