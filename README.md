@@ -57,11 +57,11 @@ I am a student in Southeast University
 
 ***
 
-<h3>
+<h2>
   <p>
     News <img src="./_Pictures/news.png" width="20px">
   </p>
-</h3>
+</h2>
 
 <div>
  
@@ -80,11 +80,11 @@ I am a student in Southeast University
 
 ***
 
-<h3>
+<h2>
   <p>
     Publications <img src="./_Pictures/paper.png" width="20px">
   </p>
-</h3>
+</h2>
 
 <div>
   <img align="left" width="400px" src="./_Papers/paper_1.png">
