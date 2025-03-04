@@ -101,7 +101,7 @@ I am a student in Southeast University
   <a href="https://scholar.google.com/citations?user=zU2r_A4AAAAJ&hl=zh-CN&oi=ao"> Junling Li </a>
   <br/>
   </p>
-  <br/>
+
   [IEEE TGAS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) / [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:FYvstESYvIEJ:scholar.google.com/&output=citation&scisdr=ClHnESqZEIqgrXaUALk:AFWwaeYAAAAAZ8aSGLg3kE67iW30PHjwDYmvwr4&scisig=AFWwaeYAAAAAZ8aSGLzA-uddPKUgxhd8PaKxYnE&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 </div>
 
