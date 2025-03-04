@@ -109,7 +109,7 @@ I am a student in Southeast University
   Low-Level, High-frequency Enhancement
 </div>
 
-<div color="red">
+<div>
   <img align="left" width="400px" src="./_Papers/paper_1.png">
 
   [**A General Cooperative Optimization Driven High-Frequency Enhancement Framework for Multi-Spectral Image Fusion**](https://ieeexplore.ieee.org/abstract/document/10897307)<br/>
