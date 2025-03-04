@@ -92,6 +92,15 @@ I am a student in Southeast University
   <img align="left" width="400px" src="./_Papers/paper_1.png">
 
   [**A General Cooperative Optimization Driven High-Frequency Enhancement Framework for Multi-Spectral Image Fusion**](https://ieeexplore.ieee.org/abstract/document/10897307)<br/>
+  <p>
+  Chentong Huang,
+  Junming Hou, 
+  <strong>Chenxu Wu</strong>, 
+  [Xiaofeng Cong](https://scholar.google.com/citations?user=a63pdHkAAAAJ&hl=zh-CN&oi=sra), 
+  [Man Zhou](https://scholar.google.com/citations?user=Q65jTroAAAAJ&hl=zh-CN&oi=sra), 
+  [Junling Li](https://scholar.google.com/citations?user=zU2r_A4AAAAJ&hl=zh-CN&oi=ao)
+  <br/>
+  </p>
 </div>
 
 
