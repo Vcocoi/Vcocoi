@@ -48,7 +48,7 @@ I am a student in Southeast University
 </h3>
 
 <div>
-  <img src="./Pictures/book.gif" align="right" width="40">
+  <img src="./Pictures/book.gif" alt="coding_img" align="right" width="40">
   
 - Reading all kinds of books
 - Drawing & Calligraphy
