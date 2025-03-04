@@ -89,7 +89,7 @@ I am a student in Southeast University
 </h3>
 
 <div>
-  <img align="left" width="500px" src="./_Papers/paper_1.png">
+  <img align="left" width="400px" src="./_Papers/paper_1.png">
 
   [**A General Cooperative Optimization Driven High-Frequency Enhancement Framework for Multi-Spectral Image Fusion**](https://ieeexplore.ieee.org/abstract/document/10897307)<br/>
 </div>
