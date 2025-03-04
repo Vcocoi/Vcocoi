@@ -29,11 +29,11 @@ I am a student in Southeast University
 
 <div style="display:flex">
   <img align="right" alt="coding_img" width="120" src="./_Pictures/ai.png" width="20px">
-  </p>
   
 **Artificial Intellengence** | *Machine Learning* | ***Human-like Network***
 
 <br>
+  </p>
 </div>
 <!--  
   <em> Artificial Intellengence </em> | <strong> Machine Learning </strong> | <em> <strong> Human-like Network </strong> </em>
