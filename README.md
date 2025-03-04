@@ -107,8 +107,7 @@ I am a student in Southeast University
   Low-Level, High-frequency Enhancement
 </div>
 
-***
-
+##
 <div>
   <img align="left" width="400px" src="./_Papers/paper_1.png">
 
