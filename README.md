@@ -145,4 +145,4 @@ I am a student in Southeast University
   </p>
 </h2>
 
-- [2021/09/01-2025/06/30] Southeast University
+- **[2021/09/01-2025/06/30] Southeast University**
