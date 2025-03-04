@@ -96,9 +96,9 @@ I am a student in Southeast University
   Chentong Huang,
   Junming Hou, 
   <strong>Chenxu Wu</strong>, 
-  <a herf="https://scholar.google.com/citations?user=a63pdHkAAAAJ&hl=zh-CN&oi=sra"> Xiaofeng Cong </a>, 
-  <a herf="https://scholar.google.com/citations?user=Q65jTroAAAAJ&hl=zh-CN&oi=sra"> Man Zhou </a>, 
-  <a herf="https://scholar.google.com/citations?user=zU2r_A4AAAAJ&hl=zh-CN&oi=ao"> Junling Li </a>
+  <a href="https://scholar.google.com/citations?user=a63pdHkAAAAJ&hl=zh-CN&oi=sra"> Xiaofeng Cong </a>, 
+  <a href="https://scholar.google.com/citations?user=Q65jTroAAAAJ&hl=zh-CN&oi=sra"> Man Zhou </a>, 
+  <a href="https://scholar.google.com/citations?user=zU2r_A4AAAAJ&hl=zh-CN&oi=ao"> Junling Li </a>
   <br/>
   </p>
 </div>
