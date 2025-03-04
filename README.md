@@ -141,10 +141,16 @@ I am a student in Southeast University
 
 <h2>
   <p>
-    Education & work <img src="./_Pictures/education.png" height=25px>
+    Education & Work <img src="./_Pictures/education.png" height=25px>
   </p>
 </h2>
 
 - **[xxxx/xx/xx-xxxx/xx/xx] VeriSilicon** <img align="right" src="./_Pictures/veri_silicon.jpg" height="40px">
 
 - **[2021/09/01-2025/06/30] Southeast University** <img align="right" src="./_Pictures/SEU.jpg" height="40px">
+
+
+
+
+
+
