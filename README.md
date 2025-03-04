@@ -149,7 +149,9 @@ I am a student in Southeast University
 
 ***
 
-<img src="./_Pictures/title_image.jpg" >
+<a href="https://github.com/Oriend/Oriend/edit/main/README.md">
+  <img align="center" width="40px" src="./_Pictures/pink_earth.gif">
+</a>
 
 
 
