@@ -71,9 +71,8 @@ I am a student in Southeast University
  **[2022/xx/xx]** []()<br>
  **[2021/xx/xx]** []()<br>
 <details>
-<summary> View More </summary>
-<br/>
-
+<summary> More </summary>
+  
  **[2021/xx/xx]** []()<br>
  **[2021/xx/xx]** []()<br>
 </details>
