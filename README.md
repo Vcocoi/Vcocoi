@@ -109,4 +109,23 @@ I am a student in Southeast University
   Low-Level, High-frequency Enhancement
 </div>
 
+<div color="red">
+  <img align="left" width="400px" src="./_Papers/paper_1.png">
 
+  [**A General Cooperative Optimization Driven High-Frequency Enhancement Framework for Multi-Spectral Image Fusion**](https://ieeexplore.ieee.org/abstract/document/10897307)<br/>
+  <p>
+  Chentong Huang,
+  Junming Hou, 
+  <strong>Chenxu Wu</strong>, 
+  <a href="https://scholar.google.com/citations?user=a63pdHkAAAAJ&hl=zh-CN&oi=sra"> Xiaofeng Cong </a>, 
+  <a href="https://scholar.google.com/citations?user=Q65jTroAAAAJ&hl=zh-CN&oi=sra"> Man Zhou </a>, 
+  <a href="https://scholar.google.com/citations?user=zU2r_A4AAAAJ&hl=zh-CN&oi=ao"> Junling Li </a>
+  <br/>
+  </p>
+
+  [*IEEE TGAS*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
+  
+  [Github](https://github.com/Vcocoi/Cooperative-Optimization-Driven-High-Frequency-Enhancement-Framework) / [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:FYvstESYvIEJ:scholar.google.com/&output=citation&scisdr=ClHnESqZEIqgrXaUALk:AFWwaeYAAAAAZ8aSGLg3kE67iW30PHjwDYmvwr4&scisig=AFWwaeYAAAAAZ8aSGLzA-uddPKUgxhd8PaKxYnE&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+
+  Low-Level, High-frequency Enhancement
+</div>
