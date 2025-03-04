@@ -30,9 +30,9 @@ I am a student in Southeast University
 <div style="display:flex">
   <img align="right" alt="coding_img" width="120" src="./_Pictures/ai.png" width="20px">
   
-**Artificial Intellengence** | *Machine Learning* | ***Human-like Network***
+  **Artificial Intellengence** | *Machine Learning* | ***Human-like Network***
 
-<br>
+  <br>
   </p>
 </div>
 <!--  
@@ -48,8 +48,7 @@ I am a student in Southeast University
 </h3>
 
 <div>
-  <>
-</p>
+  <img src="./Pictures/book.gif" align="right" width="40">
   
 - Reading all kinds of books
 - Drawing & Calligraphy
@@ -63,6 +62,8 @@ I am a student in Southeast University
     News <img src="./_Pictures/news.png" width="20px">
   </p>
 </h3>
+
+
 
 
 
