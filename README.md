@@ -48,11 +48,13 @@ I am a student in Southeast University
 </h3>
 
 <div style="display:flex">
-  <img alt="coding_img" align="right" width="40" src="./Pictures/book.gif">
+  <img alt="coding_img" align="right" width="100" src="./Pictures/book.gif">
 </p>
   
 - Reading all kinds of books
+
 - Drawing & Calligraphy
+
 - Admiring Pure Music
 </div>
 
