@@ -133,6 +133,6 @@ I am a student in Southeast University
 
 <h2>
   <p>
-    Education <img src="./_Pictures/education.png" width=25px>
+    Education & work <img src="./_Pictures/education.png" width=25px>
   </p>
 </h2>
