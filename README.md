@@ -22,11 +22,11 @@ I am a student in Southeast University
 ***
 <h2>
   <p>
-    Research Interest <img src="./_Pictures/research_insterest.png" width="25px">
+    Research Interest <img src="./_Pictures/research_insterest.png" height="25px">
   </p>
 </h2>
 <div style="display:flex">
-  <img align="right" alt="coding_img" width="120" src="./_Pictures/ai.png" width="20px">
+  <img align="right" alt="coding_img" width="120px" src="./_Pictures/ai.png">
   
   **Artificial Intellengence** | *Machine Learning* | ***Human-like Network***
 
@@ -41,25 +41,25 @@ I am a student in Southeast University
 
 <h2>
   <p>
-    Hobbies <img src="./_Pictures/hobbies.png" width="25px">
+    Hobbies <img src="./_Pictures/hobbies.png" height="25px">
   </p>
 </h2>
 
 <div style="display:flex">
-  <img alt="coding_img" align="right" width="120" src="./_Pictures/book.gif">
+  <img alt="coding_img" align="right" width="120px" src="./_Pictures/book.gif">
 
-- <img src="./_Pictures/milktea.png" width="20"> Reading all kinds of books
+- <img src="./_Pictures/milktea.png" height="20px"> Reading all kinds of books
 
-- <img src="./_Pictures/draw.png" width="20"> Drawing & <img src="./_Pictures/calligraphy.png" width="16"> Calligraphy
+- <img src="./_Pictures/draw.png" height="20px"> Drawing & <img src="./_Pictures/calligraphy.png" height="20px"> Calligraphy
 
-- <img src="./_Pictures/music.png" width="20"> Admiring [Pure Music](https://c6.y.qq.com/base/fcgi-bin/u?__=nyaEd6R4tQR8 "QQMusic")
+- <img src="./_Pictures/music.png" height="20px"> Admiring [Pure Music](https://c6.y.qq.com/base/fcgi-bin/u?__=nyaEd6R4tQR8 "QQMusic")
 </div>
 
 ***
 
 <h2>
   <p>
-    News <img src="./_Pictures/news.png" width="25px">
+    News <img src="./_Pictures/news.png" height="25px">
   </p>
 </h2>
 
@@ -82,7 +82,7 @@ I am a student in Southeast University
 
 <h2>
   <p>
-    Publications <img src="./_Pictures/paper.png" width="25px">
+    Publications <img src="./_Pictures/paper.png" height="25px">
   </p>
 </h2>
 
@@ -141,7 +141,7 @@ I am a student in Southeast University
 
 <h2>
   <p>
-    Education & work <img src="./_Pictures/education.png" width=25px>
+    Education & work <img src="./_Pictures/education.png" height=25px>
   </p>
 </h2>
 
